@@ -1,0 +1,1 @@
+One of the many functions of an operating system is memory managment. it tracks and reports how much memory is given or alocated to each process. it also tracks whenever memoery is freed or no longer being used by a prevously alocated process, and then updates to the new status.
